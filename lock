@@ -1,0 +1,2 @@
+_G.Key = "woohoo" --> Key Here!
+loadstring(game:HttpGet("https://raw.githubusercontent.com/0nlyAngxlz/ChromaW/main/free"))()
